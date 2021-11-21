@@ -1,0 +1,72 @@
+
+.conatiner{
+    border:1px dashed  white;
+    background-color: rgb(241, 82, 82);
+    display:flex;
+    width:900px;
+    height:500px;
+    padding:15px;
+    margin-left:200px;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    
+
+}
+.boxone{
+    border:25px black;
+    background-color: rgb(192, 66, 192);
+    width:400px 300px;
+    height:400px 200px;
+    border-radius:2px;
+
+}
+.boxtwo{
+    border:5px white ;
+    background-color: white;
+    width:300px;
+    height:250px;
+    border-radius: 2px;
+    color: black;
+    padding:10px;
+}
+.fname{
+    border:1px solid black;
+    border-radius: 2px ;
+    width: 280px;
+    height: 20px;
+    border-radius: 2px;
+}
+.lastname{
+    border:1px solid black;
+    border-radius: 2px ;
+    width: 280px;
+    height: 20px;
+    border-radius: 2px;
+}
+.email{
+    border:1px solid black;
+    border-radius: 2px ;
+    width: 280px;
+    height: 20px;
+    border-radius: 2px;
+}
+.password{
+    border:1px solid black;
+    border-radius: 2px ;
+    width: 280px;
+    height: 20px;
+    border-radius: 2px;
+}
+.claim{
+    border:1px solid green;
+    border-radius: 2px ;
+    width: 280px;
+    height: 20px;
+    border-radius: 2px;
+    color: white;
+    background-color: green;
+}
+
+

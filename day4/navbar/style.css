@@ -1,0 +1,29 @@
+.navbar{
+    border:3px dashed black;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:5px;
+    position:sticky;
+    background-color: palegreen;
+
+}
+.links{
+    width: 500px;
+    display:flex;
+    justify-content: space-around;
+}
+.images{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:15px;
+}
+.main{
+    border: 2px solid black;
+    width:200px;
+    height: 200px;
+    flex-direction: row revise;
+    align-items: center;
+    padding:15px;
+}

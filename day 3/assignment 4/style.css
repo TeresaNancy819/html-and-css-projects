@@ -1,0 +1,43 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    border: strong black;
+  }
+  
+  .intro {
+    background-color: palevioletred;
+  }
+  p.intro {
+    background-color: pink;
+  }
+  div h1 {
+    color: blueviolet;
+  }
+  div + p {
+    color: purple;
+  }
+  a:hover {
+    color: aqua;
+  }
+  a:visted {
+    color: red;
+  }
+  a:focus {
+    color: green;
+  }
+  p::first-letter {
+    font-size: strong;
+  }
+  [class] {
+    color: white;
+  }
+  ol.list {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .boxTwo {
+    background-color: orchid;
+  }
+  p::before {
+    content: "*";
+  }
+  
